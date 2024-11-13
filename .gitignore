@@ -1,0 +1,30 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+env/
+.env/
+
+# Ignore .DS_Store on macOS
+.DS_Store
+
+# Ignore configuration files
+*.sqlite3
+*.db
+
+# Ignore output of Jupyter notebooks
+*.out
+*.log
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
